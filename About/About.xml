@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Smart Hauling</name>
+  <author>Canodeliyov</author>
+  <packageId>smart.hauling.mod</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>Kolonistlerin taşıma kapasitesini artırır ve taşıma işlerini optimize eder.</description>
+</ModMetaData>
